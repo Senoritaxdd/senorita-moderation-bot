@@ -1,2 +1,3 @@
 # senorita-moderation-bot
-Discord Moderasyon Botu
+Bu bot Señorita.#0096 tarafından yapılmıştır.
+Hataların çözümü için ulaşabilirsiniz.
